@@ -1,4 +1,4 @@
 /* write your override styles here */
-body#tag-2 {
+body #tag-2 {
   display: none;
 }
