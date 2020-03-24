@@ -1,6 +1,4 @@
 /* write your override styles here */
-.tag-1 {
-    z-index: 7;
-    display: none;
-    background: url(../images/tag-1.png) no-repeat;
+#wall .tag-1 {
+  display: none;
 }
