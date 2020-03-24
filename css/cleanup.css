@@ -1,6 +1,6 @@
 /* write your override styles here */
 .tag-1 {
     z-index: 7;
-    display: red;
+    display: none;
     background: url(../images/tag-1.png) no-repeat;
 }
